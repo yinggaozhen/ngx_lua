@@ -2,7 +2,7 @@
 -- author : Gaozhen Ying
 -- email  : yinggaozhen@hotmail.com
 
-package.path='/data/github/ngx_lua/?.lua;'
+-- package.path='/data/github/ngx_lua/?.lua;'
 
 local lib_redis  = require('lib.redis')
 local lib_common = require('lib.common')
